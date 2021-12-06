@@ -1,0 +1,10 @@
+1:Science Fiction:Dune:Frank Herbert:16/7/2015:abcd
+2:Science Fiction:Dune:Frank Herbert:16/7/2015:0
+3:Fantasy:Berserk:Kentaro Miura:27/2/2019:efgh
+4:Science Fiction:Fahrenheit 451:Ray Bradbury:20/12/2006:0
+5:Mystery:Gone Girl:Gillian Flynn:25/9/2014:abcd
+6:Adventure:Treasure Island:Robert Louis Stevenson:25/5/1999:efgh
+7:Fantasy:The Lord of the Rings:J. R. R. Tolkien:2/8/1995:0
+8:Science Fiction:20th Century Boys:Naoki Urasawa:4/10/2018:ijkl
+9:Mystery:Bakemonogatari:Nisio Isin:22/12/2016:0
+10:Adventure:One Piece:Eiichiro Oda:1/12/1997:0
